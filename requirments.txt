@@ -1,0 +1,5 @@
+streamlit
+skit-learn
+pandas
+numpy
+matplotlib
